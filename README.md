@@ -8,7 +8,7 @@ This project is designed to help those who use antd to develop a website(or web 
 
 ## Screenshot
 
-![Screenshot](https://github.com/yuzhouisme/react-antd-redux-router-starter/blob/master/example/example-index.png)
+![Screenshot](https://github.com/kahn0101/react-redux-starter-kit/blob/master/example/example-index.png)
 
 ## Getting started
 

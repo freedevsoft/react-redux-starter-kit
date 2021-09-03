@@ -134,9 +134,7 @@ const routes = {
 
 3.Redux, read doc more and clear the connection between actions-reducers-container-component. 
 
-More Redux: 
-* In English, http://redux.js.org 
-* In Chinese, https://github.com/sorrycc/redux-in-chinese
+More Redux:  http://redux.js.org 
 
 ## Install environment and test (important)
 
@@ -171,14 +169,3 @@ $ npm run dev
 ```
 
 More usage: http://ant-tool.github.io/
-
-## Inspiration
-
-Thanks to [ant-design group](https://github.com/ant-design) for providing the UI components for developers. And I began to learn react in December last year, in work I am a mobile application developer as android/iOS platform, so I am a freshman. I sent many emails to yiming he who in ant-design group, thanks to him once again.
-
-## Write in react and antd I used
-
-My Blog [yuzhouisme.com](http://yuzhouisme.com/).
-
-Tome, help students to remember words [tome.yuzhouisme.com](http://tome.yuzhouisme.com).
-
